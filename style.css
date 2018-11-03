@@ -1,0 +1,21 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    padding: 15px;
+    margin: 20px auto;
+}
+img {
+    max-width: 75%;
+    display: block;
+    margin: auto;
+    border: 2px solid #333;
+    border-radius: 2px;
+}
+#main {
+    padding: 15px;
+    background-color: gray;
+
+}
+a {
+    text-decoration: none;
+}
